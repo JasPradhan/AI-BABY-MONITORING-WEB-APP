@@ -1,0 +1,52 @@
+body{
+    background-size:cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    border-radius: 20px;
+    font-family: 'Luckiest Guy', cursive;
+    color: rgba(0, 0, 0);
+    height: 175px;
+    padding: 20px;
+    box-shadow:5px 5px 18px black;
+}
+
+
+.heading_1{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(0, 0, 0);
+    height: 100px;
+    padding: 20px;
+}
+
+.copyright_footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    background-color: rgb(34, 67, 255);
+    text-align: center;
+    line-height: 3;
+    margin-top:10px;
+}
+
+#status,#number_of_objects{
+    font-size: 18px;
+}
+
+canvas {
+    border: 10px outset chartreuse;
+    border-radius: 20px;
+    margin-top: 110px;
+    box-shadow: 5px 5px 18px grey;
+    margin-bottom: 30px;
+}
